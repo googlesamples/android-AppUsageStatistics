@@ -108,8 +108,9 @@ public class AppUsageStatisticsFragment extends Fragment {
 
             @Override
             public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
-                StatsUsageInterval statsUsageInterval = StatsUsageInterval.getValue(strings[position]);
-                if (statsUsageInterval != null ) {
+                StatsUsageInterval statsUsageInterval = StatsUsageInterval
+                        .getValue(strings[position]);
+                if (statsUsageInterval != null) {
                     List<UsageStats> usageStatsList =
                             getUsageStatistics(statsUsageInterval.mInterval);
                     Collections.sort(usageStatsList, new LastTimeLaunchedComparatorDesc());
@@ -121,17 +122,18 @@ public class AppUsageStatisticsFragment extends Fragment {
             public void onNothingSelected(AdapterView<?> parent) {
             }
         });
-        getUsageStatistics(UsageStatsManager.INTERVAL_DAILY);
     }
 
     /**
-     * Returns the {@link #mRecyclerView} sorted by the timestamp of the last time used
-     * including the time span specified by the intervalType argument.
+     * Returns the {@link #mRecyclerView} including the time span specified by the
+     * intervalType argument.
      *
      * @param intervalType The time interval by which the stats are aggregated.
      *                     Corresponding to the value of {@link UsageStatsManager}.
      *                     E.g. {@link UsageStatsManager#INTERVAL_DAILY}, {@link
      *                     UsageStatsManager#INTERVAL_WEEKLY},
+     *
+     * @return A list of {@link android.app.usage.UsageStats}.
      */
     public List<UsageStats> getUsageStatistics(int intervalType) {
         // Get the app statistics since one year ago from the current time.
@@ -164,6 +166,7 @@ public class AppUsageStatisticsFragment extends Fragment {
      * @param usageStatsList A list of {@link UsageStats} from which update the
      *                       {@link #mRecyclerView}.
      */
+    //VisibleForTesting
     void updateAppsList(List<UsageStats> usageStatsList) {
         List<CustomUsageStats> customUsageStatsList = new ArrayList<>();
         for (int i = 0; i < usageStatsList.size(); i++) {
