@@ -21,6 +21,7 @@ import com.example.android.appusagestatistics.AppUsageStatisticsFragment.StatsUs
 import android.app.usage.UsageStats;
 import android.app.usage.UsageStatsManager;
 import android.test.ActivityInstrumentationTestCase2;
+import android.test.UiThreadTest;
 
 import java.util.List;
 
@@ -31,6 +32,7 @@ public class AppUsageStatisticsFragmentTests
         extends ActivityInstrumentationTestCase2<AppUsageStatisticsActivity> {
 
     private AppUsageStatisticsActivity mTestActivity;
+
     private AppUsageStatisticsFragment mTestFragment;
 
     public AppUsageStatisticsFragmentTests() {
@@ -80,12 +82,11 @@ public class AppUsageStatisticsFragmentTests
         assertNotNull(usageStatsList);
     }
 
+    @UiThreadTest
     public void testUpdateAppsList() {
         List<UsageStats> usageStatsList = mTestFragment
                 .getUsageStatistics(UsageStatsManager.INTERVAL_DAILY);
-
         mTestFragment.updateAppsList(usageStatsList);
-        getInstrumentation().waitForIdleSync();
 
         // The result depends on if the app is granted the access to App usage statistics.
         if (usageStatsList.size() == 0) {
