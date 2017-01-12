@@ -1,0 +1,4 @@
+#Thu Jan 12 14:22:19 SGT 2017
+base.0=C\:\\Users\\rtfeng\\Documents\\GitHub\\android-AppUsageStatistics\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\rtfeng\\Documents\\GitHub\\android-AppUsageStatistics\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

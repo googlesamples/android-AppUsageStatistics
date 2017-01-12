@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\rtfeng\\Documents\\GitHub\\android-AppUsageStatistics\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tile.9.png",
+        "source": "C:\\Users\\rtfeng\\Documents\\GitHub\\android-AppUsageStatistics\\Application\\src\\main\\res\\drawable-hdpi\\tile.9.png"
+    },
+    {
+        "merged": "C:\\Users\\rtfeng\\Documents\\GitHub\\android-AppUsageStatistics\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\rtfeng\\Documents\\GitHub\\android-AppUsageStatistics\\Application\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\rtfeng\\Documents\\GitHub\\android-AppUsageStatistics\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_default_app_launcher.png",
+        "source": "C:\\Users\\rtfeng\\Documents\\GitHub\\android-AppUsageStatistics\\Application\\src\\main\\res\\drawable-hdpi\\ic_default_app_launcher.png"
+    }
+]

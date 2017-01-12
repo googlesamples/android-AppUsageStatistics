@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\rtfeng\Documents\GitHub\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="C:\Users\rtfeng\Documents\GitHub\android-AppUsageStatistics\Application\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.1.0_67fc4cfb242a73db921368a8cc303c8d0a276423.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rtfeng\Documents\GitHub\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\rtfeng\Documents\GitHub\android-AppUsageStatistics\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_2d12030a90d31c04e34561a458690bbdeba8b83a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rtfeng\Documents\GitHub\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\rtfeng\Documents\GitHub\android-AppUsageStatistics\Application\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.1_ab68d8e806d44a6fc91db6856ac1c2fe38c2c25d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rtfeng\Documents\GitHub\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\rtfeng\Documents\GitHub\android-AppUsageStatistics\Application\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.1_239de430d4218bf8ed0000f34219dba9d87dda48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rtfeng\Documents\GitHub\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\rtfeng\Documents\GitHub\android-AppUsageStatistics\Application\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.1_0764e36c339d5b7deea487f9827fde6ac42fb915.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rtfeng\Documents\GitHub\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\rtfeng\Documents\GitHub\android-AppUsageStatistics\Application\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.0_113d94d1b5fca829641ac18674e98c524bcd55aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rtfeng\Documents\GitHub\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\rtfeng\Documents\GitHub\android-AppUsageStatistics\Application\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.1_796776fdf23eb5ae848237c5b8f49077d8d7ca4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rtfeng\Documents\GitHub\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\rtfeng\Documents\GitHub\android-AppUsageStatistics\Application\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.1_e8b8a236d07862643c1a495009fefb4df02bf42b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rtfeng\Documents\GitHub\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\rtfeng\Documents\GitHub\android-AppUsageStatistics\Application\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.1_42413de78ede75045f929c0b43f994c88279ca47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rtfeng\Documents\GitHub\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.android.support\support-v13\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9abf11d546d9e0ee82da86df608ced7a961b76ac">
+        <dex dex="C:\Users\rtfeng\Documents\GitHub\android-AppUsageStatistics\Application\build\intermediates\pre-dexed\debug\com.android.support-support-v13-25.0.1_e5d32fa00d8a21643fc2420c3ba72904a176a341.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rtfeng\Documents\GitHub\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\rtfeng\Documents\GitHub\android-AppUsageStatistics\Application\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.1_5e47a5a40f87da058a27d0ab80ec4cf8ac675e25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rtfeng\Documents\GitHub\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="C:\Users\rtfeng\Documents\GitHub\android-AppUsageStatistics\Application\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.0.1_1547e94749fcd097505a4299967e6666536698fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rtfeng\Documents\GitHub\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\rtfeng\Documents\GitHub\android-AppUsageStatistics\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_7519aef4c08ce969e125b452296f6347d91ca361.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rtfeng\Documents\GitHub\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.android.support\support-v13\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cfb91ea7c6890336890ccb42767041af6b863e32">
+        <dex dex="C:\Users\rtfeng\Documents\GitHub\android-AppUsageStatistics\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_8e3430698430249a7aaafce412f9678b9d737ef8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rtfeng\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\rtfeng\Documents\GitHub\android-AppUsageStatistics\Application\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_4cae2fcec08f13d52dbe83df880c98bd6e220394.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rtfeng\Documents\GitHub\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\rtfeng\Documents\GitHub\android-AppUsageStatistics\Application\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.0_9304fd8e8b12456ffd343276252789e45d2c2a25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rtfeng\Documents\GitHub\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\rtfeng\Documents\GitHub\android-AppUsageStatistics\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_8057ac03c784dffdcb253ace1bfece9496dd8e4a.jar" />
+    </item>
+
+</items>

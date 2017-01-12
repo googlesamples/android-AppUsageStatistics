@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\rtfeng\\Documents\\GitHub\\android-AppUsageStatistics\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\rtfeng\\Documents\\GitHub\\android-AppUsageStatistics\\Application\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\rtfeng\\Documents\\GitHub\\android-AppUsageStatistics\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_default_app_launcher.png",
+        "source": "C:\\Users\\rtfeng\\Documents\\GitHub\\android-AppUsageStatistics\\Application\\src\\main\\res\\drawable-xhdpi\\ic_default_app_launcher.png"
+    }
+]
