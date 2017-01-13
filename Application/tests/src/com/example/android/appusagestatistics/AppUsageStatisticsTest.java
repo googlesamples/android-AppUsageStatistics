@@ -19,8 +19,12 @@ public class AppUsageStatisticsTest
     private AppUsageStatisticsActivity mTestActivity;
     private AppUsageStatisticsFragment mTestFragment;
 
-    public AppUsageStatisticsTest(Class<AppUsageStatisticsActivity> activityClass) {
-        super(activityClass);
+//    public AppUsageStatisticsTest(Class<AppUsageStatisticsActivity> activityClass) {
+//        super(activityClass);
+//    }
+
+    public AppUsageStatisticsTest() {
+        super(AppUsageStatisticsActivity.class);
     }
 
 //    public AppUsageStatisticsTest() { super (AppUsageStatisticsActivity.class); }
@@ -74,7 +78,7 @@ public class AppUsageStatisticsTest
         }
     }
 
-    public void getForegroundTime() {
+    public void getForegroundTime(Context context) {
 //        UsageStats usageStats;
         final UsageStatsManager mUsageStatsManager = (UsageStatsManager)context.getSystemService("usagestats");
         String PackageName = "Nothing";

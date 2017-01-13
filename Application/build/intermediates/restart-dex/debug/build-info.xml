@@ -5,32 +5,32 @@
     density="560dpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="40255129288232"
-    token="-3787251406350459051"
+    timestamp="339006831568836"
+    token="2141283419071400562"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="1021" />
+        duration="309" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="230" />
+        duration="117" />
     <task
         name="verifier"
-        duration="148" />
+        duration="14" />
 
     <artifact
-        location="C:\Users\rtfeng\Documents\GitHub\android-AppUsageStatistics\Application\build\outputs\apk\Application-debug.apk"
+        location="/Users/fengruitao/android-AppUsageStatistics/Application/build/outputs/apk/Application-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="40255129288232"
+        timestamp="339006831568836"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="C:\Users\rtfeng\Documents\GitHub\android-AppUsageStatistics\Application\build\outputs\apk\Application-debug.apk"
+            location="/Users/fengruitao/android-AppUsageStatistics/Application/build/outputs/apk/Application-debug.apk"
             type="MAIN" />
     </build>
 

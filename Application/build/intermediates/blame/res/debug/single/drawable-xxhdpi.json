@@ -1,10 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\rtfeng\\Documents\\GitHub\\android-AppUsageStatistics\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
-        "source": "C:\\Users\\rtfeng\\Documents\\GitHub\\android-AppUsageStatistics\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+        "merged": "/Users/fengruitao/android-AppUsageStatistics/Application/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_default_app_launcher.png",
+        "source": "/Users/fengruitao/android-AppUsageStatistics/Application/src/main/res/drawable-xxhdpi/ic_default_app_launcher.png"
     },
     {
-        "merged": "C:\\Users\\rtfeng\\Documents\\GitHub\\android-AppUsageStatistics\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_default_app_launcher.png",
-        "source": "C:\\Users\\rtfeng\\Documents\\GitHub\\android-AppUsageStatistics\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_default_app_launcher.png"
+        "merged": "/Users/fengruitao/android-AppUsageStatistics/Application/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_launcher.png",
+        "source": "/Users/fengruitao/android-AppUsageStatistics/Application/src/main/res/drawable-xxhdpi/ic_launcher.png"
     }
 ]

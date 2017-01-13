@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\rtfeng\\Documents\\GitHub\\android-AppUsageStatistics\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v22\\values-v22.xml",
+        "outputFile": "/Users/fengruitao/android-AppUsageStatistics/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v22/values-v22.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 125
                 },
                 "from": {
-                    "file": "C:\\Users\\rtfeng\\Documents\\GitHub\\android-AppUsageStatistics\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-v22\\values-v22.xml",
+                    "file": "/Users/fengruitao/android-AppUsageStatistics/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v22/values-v22.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 212
                 },
                 "from": {
-                    "file": "C:\\Users\\rtfeng\\Documents\\GitHub\\android-AppUsageStatistics\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-v22\\values-v22.xml",
+                    "file": "/Users/fengruitao/android-AppUsageStatistics/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v22/values-v22.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -50,7 +50,7 @@
                     "endOffset": 548
                 },
                 "from": {
-                    "file": "C:\\Users\\rtfeng\\Documents\\GitHub\\android-AppUsageStatistics\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-v22\\values-v22.xml",
+                    "file": "/Users/fengruitao/android-AppUsageStatistics/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v22/values-v22.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -71,7 +71,7 @@
                     "endOffset": 896
                 },
                 "from": {
-                    "file": "C:\\Users\\rtfeng\\Documents\\GitHub\\android-AppUsageStatistics\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-v22\\values-v22.xml",
+                    "file": "/Users/fengruitao/android-AppUsageStatistics/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v22/values-v22.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,

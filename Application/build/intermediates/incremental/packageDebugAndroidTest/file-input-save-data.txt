@@ -1,9 +1,9 @@
 #Internal package file, do not edit.
-#Thu Jan 12 15:15:09 SGT 2017
-1.file=C\:\\Users\\rtfeng\\Documents\\GitHub\\android-AppUsageStatistics\\Application\\build\\intermediates\\res\\resources-debug-androidTest.ap_\\AndroidManifest.xml
-1.set=ANDROID_RESOURCE
-0.file=C\:\\Users\\rtfeng\\Documents\\GitHub\\android-AppUsageStatistics\\Application\\build\\intermediates\\transforms\\dex\\androidTest\\debug\\folders\\1000\\1f\\main\\classes.dex
-1.base=C\:\\Users\\rtfeng\\Documents\\GitHub\\android-AppUsageStatistics\\Application\\build\\intermediates\\res\\resources-debug-androidTest.ap_
-0.base=C\:\\Users\\rtfeng\\Documents\\GitHub\\android-AppUsageStatistics\\Application\\build\\intermediates\\transforms\\dex\\androidTest\\debug\\folders\\1000\\1f\\main
-0.set=DEX
+#Fri Jan 13 19:10:56 SGT 2017
+1.file=/Users/fengruitao/android-AppUsageStatistics/Application/build/intermediates/transforms/dex/androidTest/debug/folders/1000/1f/main/classes.dex
+1.set=DEX
+0.file=/Users/fengruitao/android-AppUsageStatistics/Application/build/intermediates/res/resources-debug-androidTest.ap_/AndroidManifest.xml
+1.base=/Users/fengruitao/android-AppUsageStatistics/Application/build/intermediates/transforms/dex/androidTest/debug/folders/1000/1f/main
+0.base=/Users/fengruitao/android-AppUsageStatistics/Application/build/intermediates/res/resources-debug-androidTest.ap_
+0.set=ANDROID_RESOURCE
 count=2
