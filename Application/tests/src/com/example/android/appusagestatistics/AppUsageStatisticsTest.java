@@ -1,6 +1,7 @@
 package com.example.android.appusagestatistics;
 
 import com.example.android.appusagestatistics.AppUsageStatisticsFragment.StatsUsageInterval;
+
 import android.app.usage.UsageStats;
 import android.app.usage.UsageStatsManager;
 import android.test.ActivityInstrumentationTestCase2;
@@ -8,7 +9,6 @@ import android.test.UiThreadTest;
 import android.content.Context;
 
 import java.util.List;
-import java.lang.Object;
 
 /**
  * Created by rtfeng on 2017/1/12.
@@ -17,7 +17,7 @@ import java.lang.Object;
 public class AppUsageStatisticsTest
         extends ActivityInstrumentationTestCase2<AppUsageStatisticsActivity> {
     private AppUsageStatisticsActivity mTestActivity;
-    private  AppUsageStatisticsFragment mTestFragment;
+    private AppUsageStatisticsFragment mTestFragment;
 
     public AppUsageStatisticsTest(Class<AppUsageStatisticsActivity> activityClass) {
         super(activityClass);
@@ -25,7 +25,7 @@ public class AppUsageStatisticsTest
 
 //    public AppUsageStatisticsTest() { super (AppUsageStatisticsActivity.class); }
 
-    protected  void setUp() throws Exception {
+    protected void setUp() throws Exception {
         super.setUp();
 
         mTestActivity = getActivity();
@@ -58,7 +58,7 @@ public class AppUsageStatisticsTest
         // the access to App usage statistics.
         // Only check non null here.
         assertNotNull(usageStatsList);
-        final List<UsageStats> queryUsageStats
+        final List<UsageStats> queryUsageStats;
     }
 
     public void testUpdateAppsList() {
@@ -74,12 +74,25 @@ public class AppUsageStatisticsTest
         }
     }
 
-    UsageStatsManager mUsageStatsManager = (UsageStatsManager);
-    long time = System.currentTimeMillis();
-    List<UsageStats> stats = mUsageStatsManager.queryUsageStats(UsageStatsManager.INTERVAL_DAILY, time-1000*10, time);
-    if(stats != null) {
-        for(UsageStats usageStats : stats) {
+    public void getForegroundTime() {
+//        UsageStats usageStats;
+        final UsageStatsManager mUsageStatsManager = (UsageStatsManager)context.getSystemService("usagestats");
+        String PackageName = "Nothing";
+        long time = System.currentTimeMillis();
+        long TimeInforground = 500;
+        int minutes = 500, seconds = 500, hours = 500;
+        final List<UsageStats> stats = mUsageStatsManager.queryUsageStats(UsageStatsManager.INTERVAL_DAILY, time - 1000 * 10, time);
+        if (stats != null)
 
+        {
+            for (UsageStats usageStats : stats) {
+                TimeInforground = usageStats.getTotalTimeInForeground();
+                PackageName = usageStats.getPackageName();
+                minutes = (int) ((TimeInforground / (1000 * 60)) % 60);
+                seconds = (int) (TimeInforground / 1000) % 60;
+                hours = (int) ((TimeInforground / (1000 * 60 * 60)) % 24);
+
+            }
         }
     }
 }
