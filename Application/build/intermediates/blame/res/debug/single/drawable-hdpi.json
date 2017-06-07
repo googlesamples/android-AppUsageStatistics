@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/fengruitao/android-AppUsageStatistics/Application/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/fengruitao/android-AppUsageStatistics/Application/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/fengruitao/android-AppUsageStatistics/Application/build/intermediates/res/merged/debug/drawable-hdpi/tile.9.png",
+        "source": "/Users/fengruitao/android-AppUsageStatistics/Application/src/main/res/drawable-hdpi/tile.9.png"
+    },
+    {
+        "merged": "/Users/fengruitao/android-AppUsageStatistics/Application/build/intermediates/res/merged/debug/drawable-hdpi/ic_default_app_launcher.png",
+        "source": "/Users/fengruitao/android-AppUsageStatistics/Application/src/main/res/drawable-hdpi/ic_default_app_launcher.png"
+    }
+]

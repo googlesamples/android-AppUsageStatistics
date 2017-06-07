@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/fengruitao/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/fengruitao/android-AppUsageStatistics/Application/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_74e0907930e77b7bdd42ca6f19c98c8b3793a925.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fengruitao/android-AppUsageStatistics/Application/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/fengruitao/android-AppUsageStatistics/Application/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_da7e98e8e10765752a0d211e76ff02c221291980.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fengruitao/android-AppUsageStatistics/Application/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/fengruitao/android-AppUsageStatistics/Application/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_a02980b0a3bec47abd6f317b1b9c4d5f6b94e0c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fengruitao/android-AppUsageStatistics/Application/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/fengruitao/android-AppUsageStatistics/Application/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_7f60d3c8ebee5aa1ca98057f465f6087e9afdeaa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fengruitao/android-AppUsageStatistics/Application/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/fengruitao/android-AppUsageStatistics/Application/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_dc88e2f3396f405a0408ae5602a8613411d4c333.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fengruitao/android-AppUsageStatistics/Application/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/fengruitao/android-AppUsageStatistics/Application/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_acda4f637ea9adf3c2e0a2e0b5d77a3f604d13d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fengruitao/android-AppUsageStatistics/Application/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/fengruitao/android-AppUsageStatistics/Application/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_0cbd45bebd9f540b8392b0a37ba81dac976a7ab5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fengruitao/android-AppUsageStatistics/Application/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/fengruitao/android-AppUsageStatistics/Application/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_203470a3360692e896f14e5eafd6772e31de3284.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fengruitao/android-AppUsageStatistics/Application/build/intermediates/exploded-aar/com.android.support/support-v13/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cfb91ea7c6890336890ccb42767041af6b863e32">
+        <dex dex="/Users/fengruitao/android-AppUsageStatistics/Application/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_65b26512598e5edc76d469bc99da6980c3ed914d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fengruitao/android-AppUsageStatistics/Application/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/fengruitao/android-AppUsageStatistics/Application/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_436b7c498dc3d1424cb548e552d0e9488d7efb9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fengruitao/android-AppUsageStatistics/Application/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/Users/fengruitao/android-AppUsageStatistics/Application/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.1.0_83c419dc46cb0357a38924461b6bedbd0819605f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fengruitao/android-AppUsageStatistics/Application/build/intermediates/exploded-aar/com.android.support/support-v13/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9abf11d546d9e0ee82da86df608ced7a961b76ac">
+        <dex dex="/Users/fengruitao/android-AppUsageStatistics/Application/build/intermediates/pre-dexed/debug/com.android.support-support-v13-25.0.1_dfd0934de30f7f1dee28452966a9e8d38959b1f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fengruitao/android-AppUsageStatistics/Application/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/fengruitao/android-AppUsageStatistics/Application/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_79d7e8a642cf70edf65d8917aa8a611068243321.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fengruitao/android-AppUsageStatistics/Application/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/fengruitao/android-AppUsageStatistics/Application/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_903ba5ae8fcb6a04ade9dad05c643620a9c43f01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fengruitao/android-AppUsageStatistics/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/fengruitao/android-AppUsageStatistics/Application/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_0f94e840cd346c908ca1a6621c9e194110100b2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fengruitao/android-AppUsageStatistics/Application/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/fengruitao/android-AppUsageStatistics/Application/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_6804b1e82816e78ebd2db0d6f4a527c9205b65fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fengruitao/android-AppUsageStatistics/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="/Users/fengruitao/android-AppUsageStatistics/Application/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-25.0.1_e8844b8b7f1b0557eba1411469fbe593c2975677.jar" />
+    </item>
+
+</items>
