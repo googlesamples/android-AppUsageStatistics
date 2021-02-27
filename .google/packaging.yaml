@@ -6,10 +6,11 @@
 ---
 status:       PUBLISHED
 technologies: [Android]
-categories:   [System]
+categories:   [Stats]
 languages:    [Java]
 solutions:    [Mobile]
 github:       android-AppUsageStatistics
+branch:       master
 level:        INTERMEDIATE
 icon:         screenshots/web-icon.png
 apiRefs:
