@@ -1,0 +1,184 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/muzammil/Desktop/opensource/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml:17:1-37:12
+INJECTED from /home/muzammil/Desktop/opensource/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml:17:1-37:12
+INJECTED from /home/muzammil/Desktop/opensource/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml:17:1-37:12
+INJECTED from /home/muzammil/Desktop/opensource/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/92a1f909025426f266e17577b81db1d3/legacy-support-v13-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/2ab9f694e5d3af64949140461960b743/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/2139d73c5146b0d9ccfa1f5b382f03a7/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.3.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/7160c6b9fdb2bc1e41d9bd715d01fdc2/appcompat-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /home/muzammil/.gradle/caches/transforms-2/files-2.1/0cf1f5fbee44042c4337b43289312ff3/recyclerview-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/c82a9eca41089f3a6896ea573cfccd87/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/cafdcb56cd064bbf622135f61bb6ed84/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/7cbfbaaa39ecb82620bffe2588206993/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.3.4] /home/muzammil/.gradle/caches/transforms-2/files-2.1/2163979b6567cda52ae0ebf1a205491d/fragment-1.3.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.3] /home/muzammil/.gradle/caches/transforms-2/files-2.1/1a40e83ae200e4ae45fecb800d90d27b/activity-1.2.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/3c963dba1791c82e03149b3b2719af6f/appcompat-resources-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/868c4b7ee3ddc9bf7e171c26bc1832bd/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/c6e778544c3daa9334b7e39d7723ab0b/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/390fba7780f75f3935d6793c0cae2473/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/092a3e2c794826840c7bdfa866a4ff56/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/a47101ded039236e94007b8beb4d0848/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/fb1a0924cbad762d0f581f6d187fd952/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/02762fa41652d52d9fee565fa6e98d0d/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/c523d7266f112830516f47157eeaf9c5/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/d069af392a46560179b53445d8c62ad1/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/20c1eeb79dd8f8c8b0aab8c08c59d834/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.5.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/07adfc08fe16d3453ab9291511ec05fe/core-1.5.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/5a0ff6eba4a0ab8a5ff2db13b6b96742/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/muzammil/.gradle/caches/transforms-2/files-2.1/215c4cb7b109f77150096f8bca6d9b26/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/afab86a26f5870eb1deea6f5be219f33/savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/muzammil/.gradle/caches/transforms-2/files-2.1/5faf8b25e4fed9f7e888f396864d1b87/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/muzammil/.gradle/caches/transforms-2/files-2.1/f6de2a670d04d6e6d777da00f7299d4c/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/ca96f6182f57510854af9a656e5790c4/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/b33061385d67b982bb885113b832fc1e/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/01df92b7300672a5ff8664dc3764ee51/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/5586921ae4cea2e46fb71f72d59033a3/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/muzammil/.gradle/caches/transforms-2/files-2.1/835e00338284d4507478e57f331e684a/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/1ca7f4babd47e92c04d7623cf999fae6/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/0f9f9612216e1658ded37de1f7493c8e/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/muzammil/.gradle/caches/transforms-2/files-2.1/48d3e93f663364a971ec0b0d91325f8d/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/e07e114cb47d0c60a85ca2367f8a128b/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/8d11d86b037c681c007c37e744e988c0/annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/muzammil/Desktop/opensource/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml:17:1-37:12
+INJECTED from /home/muzammil/Desktop/opensource/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml:17:1-37:12
+INJECTED from /home/muzammil/Desktop/opensource/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml:17:1-37:12
+	package
+		ADDED from /home/muzammil/Desktop/opensource/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml:18:5-53
+		INJECTED from /home/muzammil/Desktop/opensource/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/muzammil/Desktop/opensource/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/muzammil/Desktop/opensource/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml:20:5-30
+		INJECTED from /home/muzammil/Desktop/opensource/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/muzammil/Desktop/opensource/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/muzammil/Desktop/opensource/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml:17:11-69
+	android:versionCode
+		ADDED from /home/muzammil/Desktop/opensource/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml:19:5-28
+		INJECTED from /home/muzammil/Desktop/opensource/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/muzammil/Desktop/opensource/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml
+uses-permission#android.permission.PACKAGE_USAGE_STATS
+ADDED from /home/muzammil/Desktop/opensource/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml:22:5-77
+	android:name
+		ADDED from /home/muzammil/Desktop/opensource/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml:22:22-75
+application
+ADDED from /home/muzammil/Desktop/opensource/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml:24:5-36:19
+MERGED from [androidx.core:core:1.5.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/07adfc08fe16d3453ab9291511ec05fe/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/07adfc08fe16d3453ab9291511ec05fe/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/muzammil/.gradle/caches/transforms-2/files-2.1/835e00338284d4507478e57f331e684a/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/muzammil/.gradle/caches/transforms-2/files-2.1/835e00338284d4507478e57f331e684a/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/07adfc08fe16d3453ab9291511ec05fe/core-1.5.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /home/muzammil/Desktop/opensource/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml:25:9-41
+	android:icon
+		ADDED from /home/muzammil/Desktop/opensource/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml:26:9-45
+	android:allowBackup
+		ADDED from /home/muzammil/Desktop/opensource/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml:24:18-44
+	android:theme
+		ADDED from /home/muzammil/Desktop/opensource/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml:27:9-53
+activity#com.example.android.appusagestatistics.AppUsageStatisticsActivity
+ADDED from /home/muzammil/Desktop/opensource/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml:29:9-35:20
+	android:label
+		ADDED from /home/muzammil/Desktop/opensource/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml:30:19-51
+	android:name
+		ADDED from /home/muzammil/Desktop/opensource/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml:29:19-61
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/muzammil/Desktop/opensource/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml:31:13-34:29
+action#android.intent.action.MAIN
+ADDED from /home/muzammil/Desktop/opensource/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from /home/muzammil/Desktop/opensource/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/muzammil/Desktop/opensource/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from /home/muzammil/Desktop/opensource/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml:33:27-74
+uses-sdk
+INJECTED from /home/muzammil/Desktop/opensource/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/muzammil/Desktop/opensource/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml
+INJECTED from /home/muzammil/Desktop/opensource/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/92a1f909025426f266e17577b81db1d3/legacy-support-v13-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/92a1f909025426f266e17577b81db1d3/legacy-support-v13-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/2ab9f694e5d3af64949140461960b743/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/2ab9f694e5d3af64949140461960b743/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/2139d73c5146b0d9ccfa1f5b382f03a7/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/2139d73c5146b0d9ccfa1f5b382f03a7/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.3.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/7160c6b9fdb2bc1e41d9bd715d01fdc2/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/7160c6b9fdb2bc1e41d9bd715d01fdc2/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /home/muzammil/.gradle/caches/transforms-2/files-2.1/0cf1f5fbee44042c4337b43289312ff3/recyclerview-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /home/muzammil/.gradle/caches/transforms-2/files-2.1/0cf1f5fbee44042c4337b43289312ff3/recyclerview-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/c82a9eca41089f3a6896ea573cfccd87/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/c82a9eca41089f3a6896ea573cfccd87/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/cafdcb56cd064bbf622135f61bb6ed84/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/cafdcb56cd064bbf622135f61bb6ed84/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/7cbfbaaa39ecb82620bffe2588206993/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/7cbfbaaa39ecb82620bffe2588206993/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.4] /home/muzammil/.gradle/caches/transforms-2/files-2.1/2163979b6567cda52ae0ebf1a205491d/fragment-1.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] /home/muzammil/.gradle/caches/transforms-2/files-2.1/2163979b6567cda52ae0ebf1a205491d/fragment-1.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] /home/muzammil/.gradle/caches/transforms-2/files-2.1/1a40e83ae200e4ae45fecb800d90d27b/activity-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] /home/muzammil/.gradle/caches/transforms-2/files-2.1/1a40e83ae200e4ae45fecb800d90d27b/activity-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/3c963dba1791c82e03149b3b2719af6f/appcompat-resources-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/3c963dba1791c82e03149b3b2719af6f/appcompat-resources-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/868c4b7ee3ddc9bf7e171c26bc1832bd/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/868c4b7ee3ddc9bf7e171c26bc1832bd/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/c6e778544c3daa9334b7e39d7723ab0b/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/c6e778544c3daa9334b7e39d7723ab0b/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/390fba7780f75f3935d6793c0cae2473/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/390fba7780f75f3935d6793c0cae2473/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/092a3e2c794826840c7bdfa866a4ff56/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/092a3e2c794826840c7bdfa866a4ff56/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/a47101ded039236e94007b8beb4d0848/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/a47101ded039236e94007b8beb4d0848/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/fb1a0924cbad762d0f581f6d187fd952/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/fb1a0924cbad762d0f581f6d187fd952/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/02762fa41652d52d9fee565fa6e98d0d/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/02762fa41652d52d9fee565fa6e98d0d/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/c523d7266f112830516f47157eeaf9c5/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/c523d7266f112830516f47157eeaf9c5/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/d069af392a46560179b53445d8c62ad1/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/d069af392a46560179b53445d8c62ad1/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/20c1eeb79dd8f8c8b0aab8c08c59d834/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/20c1eeb79dd8f8c8b0aab8c08c59d834/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/07adfc08fe16d3453ab9291511ec05fe/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/07adfc08fe16d3453ab9291511ec05fe/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/5a0ff6eba4a0ab8a5ff2db13b6b96742/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/5a0ff6eba4a0ab8a5ff2db13b6b96742/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/muzammil/.gradle/caches/transforms-2/files-2.1/215c4cb7b109f77150096f8bca6d9b26/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/muzammil/.gradle/caches/transforms-2/files-2.1/215c4cb7b109f77150096f8bca6d9b26/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/afab86a26f5870eb1deea6f5be219f33/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/afab86a26f5870eb1deea6f5be219f33/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/muzammil/.gradle/caches/transforms-2/files-2.1/5faf8b25e4fed9f7e888f396864d1b87/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/muzammil/.gradle/caches/transforms-2/files-2.1/5faf8b25e4fed9f7e888f396864d1b87/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/muzammil/.gradle/caches/transforms-2/files-2.1/f6de2a670d04d6e6d777da00f7299d4c/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/muzammil/.gradle/caches/transforms-2/files-2.1/f6de2a670d04d6e6d777da00f7299d4c/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/ca96f6182f57510854af9a656e5790c4/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/ca96f6182f57510854af9a656e5790c4/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/b33061385d67b982bb885113b832fc1e/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/b33061385d67b982bb885113b832fc1e/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/01df92b7300672a5ff8664dc3764ee51/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/01df92b7300672a5ff8664dc3764ee51/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/5586921ae4cea2e46fb71f72d59033a3/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/5586921ae4cea2e46fb71f72d59033a3/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/muzammil/.gradle/caches/transforms-2/files-2.1/835e00338284d4507478e57f331e684a/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/muzammil/.gradle/caches/transforms-2/files-2.1/835e00338284d4507478e57f331e684a/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/1ca7f4babd47e92c04d7623cf999fae6/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/1ca7f4babd47e92c04d7623cf999fae6/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/0f9f9612216e1658ded37de1f7493c8e/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/0f9f9612216e1658ded37de1f7493c8e/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/muzammil/.gradle/caches/transforms-2/files-2.1/48d3e93f663364a971ec0b0d91325f8d/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/muzammil/.gradle/caches/transforms-2/files-2.1/48d3e93f663364a971ec0b0d91325f8d/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/e07e114cb47d0c60a85ca2367f8a128b/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/e07e114cb47d0c60a85ca2367f8a128b/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/8d11d86b037c681c007c37e744e988c0/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/8d11d86b037c681c007c37e744e988c0/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/muzammil/Desktop/opensource/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml
+INJECTED from /home/muzammil/Desktop/opensource/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/muzammil/Desktop/opensource/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml
+		ADDED from /home/muzammil/Desktop/opensource/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/muzammil/Desktop/opensource/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/muzammil/Desktop/opensource/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml
+		ADDED from /home/muzammil/Desktop/opensource/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/muzammil/Desktop/opensource/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml

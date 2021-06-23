@@ -1,18 +1,18 @@
 /*
-* Copyright 2014 The Android Open Source Project
-*
-* Licensed under the Apache License, Version 2.0 (the "License");
-* you may not use this file except in compliance with the License.
-* You may obtain a copy of the License at
-*
-*     http://www.apache.org/licenses/LICENSE-2.0
-*
-* Unless required by applicable law or agreed to in writing, software
-* distributed under the License is distributed on an "AS IS" BASIS,
-* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-* See the License for the specific language governing permissions and
-* limitations under the License.
-*/
+ * Copyright 2014 The Android Open Source Project
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *     http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
 
 package com.example.android.appusagestatistics;
 
@@ -23,8 +23,10 @@ import android.content.pm.PackageManager;
 import android.graphics.drawable.Drawable;
 import android.os.Bundle;
 import android.provider.Settings;
-import android.support.v4.app.Fragment;
-import android.support.v7.widget.RecyclerView;
+
+import androidx.fragment.app.Fragment;
+import androidx.recyclerview.widget.RecyclerView;
+
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -82,7 +84,7 @@ public class AppUsageStatisticsFragment extends Fragment {
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
-            Bundle savedInstanceState) {
+                             Bundle savedInstanceState) {
         return inflater.inflate(R.layout.fragment_app_usage_statistics, container, false);
     }
 
@@ -91,12 +93,12 @@ public class AppUsageStatisticsFragment extends Fragment {
         super.onViewCreated(rootView, savedInstanceState);
 
         mUsageListAdapter = new UsageListAdapter();
-        mRecyclerView = (RecyclerView) rootView.findViewById(R.id.recyclerview_app_usage);
+        mRecyclerView = rootView.findViewById(R.id.recyclerview_app_usage);
         mLayoutManager = mRecyclerView.getLayoutManager();
         mRecyclerView.scrollToPosition(0);
         mRecyclerView.setAdapter(mUsageListAdapter);
-        mOpenUsageSettingButton = (Button) rootView.findViewById(R.id.button_open_usage_setting);
-        mSpinner = (Spinner) rootView.findViewById(R.id.spinner_time_span);
+        mOpenUsageSettingButton = rootView.findViewById(R.id.button_open_usage_setting);
+        mSpinner = rootView.findViewById(R.id.spinner_time_span);
         SpinnerAdapter spinnerAdapter = ArrayAdapter.createFromResource(getActivity(),
                 R.array.action_list, android.R.layout.simple_spinner_dropdown_item);
         mSpinner.setAdapter(spinnerAdapter);
@@ -130,7 +132,6 @@ public class AppUsageStatisticsFragment extends Fragment {
      *                     Corresponding to the value of {@link UsageStatsManager}.
      *                     E.g. {@link UsageStatsManager#INTERVAL_DAILY}, {@link
      *                     UsageStatsManager#INTERVAL_WEEKLY},
-     *
      * @return A list of {@link android.app.usage.UsageStats}.
      */
     public List<UsageStats> getUsageStatistics(int intervalType) {
@@ -202,10 +203,9 @@ public class AppUsageStatisticsFragment extends Fragment {
     /**
      * Enum represents the intervals for {@link android.app.usage.UsageStatsManager} so that
      * values for intervals can be found by a String representation.
-     *
      */
     //VisibleForTesting
-    static enum StatsUsageInterval {
+    enum StatsUsageInterval {
         DAILY("Daily", UsageStatsManager.INTERVAL_DAILY),
         WEEKLY("Weekly", UsageStatsManager.INTERVAL_WEEKLY),
         MONTHLY("Monthly", UsageStatsManager.INTERVAL_MONTHLY),
