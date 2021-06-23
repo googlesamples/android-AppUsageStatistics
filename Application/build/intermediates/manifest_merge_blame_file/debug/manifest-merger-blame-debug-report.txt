@@ -1,0 +1,65 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!--
+3 Copyright 2014 The Android Open Source Project
+4
+5 Licensed under the Apache License, Version 2.0 (the "License");
+6 you may not use this file except in compliance with the License.
+7 You may obtain a copy of the License at
+8
+9     http://www.apache.org/licenses/LICENSE-2.0
+10
+11 Unless required by applicable law or agreed to in writing, software
+12 distributed under the License is distributed on an "AS IS" BASIS,
+13 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+14 See the License for the specific language governing permissions and
+15 limitations under the License.
+16-->
+17<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+18    package="com.example.android.appusagestatistics"
+19    android:versionCode="1"
+20    android:versionName="1.0" >
+21
+22    <uses-sdk
+23        android:minSdkVersion="21"
+23-->/home/muzammil/Desktop/opensource/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml
+24        android:targetSdkVersion="30" />
+24-->/home/muzammil/Desktop/opensource/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml
+25
+26    <uses-permission android:name="android.permission.PACKAGE_USAGE_STATS" />
+26-->/home/muzammil/Desktop/opensource/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml:22:5-77
+26-->/home/muzammil/Desktop/opensource/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml:22:22-75
+27
+28    <application
+28-->/home/muzammil/Desktop/opensource/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml:24:5-36:19
+29        android:allowBackup="true"
+29-->/home/muzammil/Desktop/opensource/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml:24:18-44
+30        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+30-->[androidx.core:core:1.5.0] /home/muzammil/.gradle/caches/transforms-2/files-2.1/07adfc08fe16d3453ab9291511ec05fe/core-1.5.0/AndroidManifest.xml:24:18-86
+31        android:debuggable="true"
+32        android:icon="@drawable/ic_launcher"
+32-->/home/muzammil/Desktop/opensource/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml:26:9-45
+33        android:label="@string/app_name"
+33-->/home/muzammil/Desktop/opensource/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml:25:9-41
+34        android:testOnly="true"
+35        android:theme="@style/Theme.AppCompat.Light" >
+35-->/home/muzammil/Desktop/opensource/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml:27:9-53
+36        <activity
+36-->/home/muzammil/Desktop/opensource/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml:29:9-35:20
+37            android:name="com.example.android.appusagestatistics.AppUsageStatisticsActivity"
+37-->/home/muzammil/Desktop/opensource/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml:29:19-61
+38            android:label="@string/app_name" >
+38-->/home/muzammil/Desktop/opensource/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml:30:19-51
+39            <intent-filter>
+39-->/home/muzammil/Desktop/opensource/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml:31:13-34:29
+40                <action android:name="android.intent.action.MAIN" />
+40-->/home/muzammil/Desktop/opensource/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml:32:17-69
+40-->/home/muzammil/Desktop/opensource/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml:32:25-66
+41
+42                <category android:name="android.intent.category.LAUNCHER" />
+42-->/home/muzammil/Desktop/opensource/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml:33:17-77
+42-->/home/muzammil/Desktop/opensource/android-AppUsageStatistics/Application/src/main/AndroidManifest.xml:33:27-74
+43            </intent-filter>
+44        </activity>
+45    </application>
+46
+47</manifest>

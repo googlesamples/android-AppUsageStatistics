@@ -1,0 +1,15 @@
+com/example/android/appusagestatistics/BuildConfig.java
+ com.example.android.appusagestatistics.BuildConfig
+com/example/android/appusagestatistics/AppUsageStatisticsFragment.java
+ com.example.android.appusagestatistics.AppUsageStatisticsFragment
+ com.example.android.appusagestatistics.AppUsageStatisticsFragment$1
+ com.example.android.appusagestatistics.AppUsageStatisticsFragment$2
+ com.example.android.appusagestatistics.AppUsageStatisticsFragment$LastTimeLaunchedComparatorDesc
+ com.example.android.appusagestatistics.AppUsageStatisticsFragment$StatsUsageInterval
+com/example/android/appusagestatistics/AppUsageStatisticsActivity.java
+ com.example.android.appusagestatistics.AppUsageStatisticsActivity
+com/example/android/appusagestatistics/CustomUsageStats.java
+ com.example.android.appusagestatistics.CustomUsageStats
+com/example/android/appusagestatistics/UsageListAdapter.java
+ com.example.android.appusagestatistics.UsageListAdapter
+ com.example.android.appusagestatistics.UsageListAdapter$ViewHolder
